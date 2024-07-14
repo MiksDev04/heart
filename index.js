@@ -1,4 +1,4 @@
-document.addEventListener('click', event => {
+document.addEventListener('mouseover', event => {
     let x = event.clientX;
     let y = event.clientY;
     let heartColor = '#';
